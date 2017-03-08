@@ -1,0 +1,25 @@
+.field {
+    margin: 5% 0 0 5%;
+    display: table;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    width: 15px;
+    height: 15px;
+    margin: 5px 0 0 5px;
+    float: left;
+    display: table-cell;
+    border: 1px black;
+}
+
+.active {
+    background-color: coral;
+}
+
+.passive {
+    background-color: white;
+}
